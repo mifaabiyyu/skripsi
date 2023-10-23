@@ -1,0 +1,11 @@
+User	: Admin
+Email	: admin@admin.com
+Pass	: password
+
+User	: Prodi
+Email	: prodi@email.com
+Pass	: password
+
+User	: Fakultas
+Email	: fik@email.com
+Pass	: password
